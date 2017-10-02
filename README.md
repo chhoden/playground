@@ -8,4 +8,4 @@ ______ |  | _____  ___.__. ___________  ____  __ __  ____    __| _/
 ```
 ---
 
-> :sparkles: A place to store all my programming practice code :sparkles:# playground
+> :sparkles: A place to store all my programming practice code :sparkles:
